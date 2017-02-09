@@ -1,4 +1,4 @@
-# angular-table
+# angular-tabs
 使用AngularJs封装Tabs选项卡组件
 
 
