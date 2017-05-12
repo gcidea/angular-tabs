@@ -1,4 +1,4 @@
- (function ( angular ) {
+1123 (function ( angular ) {
 'use strict';
 
 angular.module('moduleTabs',['messageDialog'], function($compileProvider) {
